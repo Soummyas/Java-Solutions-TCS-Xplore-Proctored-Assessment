@@ -29,3 +29,20 @@ class Solution {
 // 		} 
 // 	}
 // }
+
+
+
+
+// public class Main
+// {
+// 	public static void main(String[] args) {
+// 		System.out.println("Hello World");
+// 		String str ="Hey3 Java   Learners";
+// 		for (int i = 0 ; i < str.length(); i++ ){
+// 		    if(str.charAt(i) == ' ' && str.charAt(i - 1) !=' '  && !Character.isDigit(str.charAt(i - 1) )){
+// 		        	System.out.print(str.charAt(i- 1));
+// 		    }
+// 		    else if (i == str.length() - 1  && !Character.isDigit(str.charAt(i - 1))) 	System.out.print(str.charAt(i));
+// 		} 
+// 	}
+// }
