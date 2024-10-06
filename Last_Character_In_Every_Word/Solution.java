@@ -46,3 +46,24 @@ class Solution {
 // 		} 
 // 	}
 // }
+
+
+
+
+// class Main {
+//     public static void main(String[] args){
+//        System.out.println("Hello World");
+// 	String s = "Hey3 Java   Learners";  
+// String st [] = s.split(" ");
+// int x = st.length;
+// String temp="";
+
+// for (int i = 0; i < x ; i++ ){
+//     if(st[i].length() > 0 && st[i].charAt(st[i].length() - 1) >= 'a' && st[i].charAt(st[i].length() - 1) <= 'z'){
+//         temp = Character.toString(st[i].charAt(st[i].length() - 1 ));
+//     System.out.print(temp);
+//     }
+// } 
+
+//     }
+// }
